@@ -1,0 +1,3 @@
+classier's accuracy: 0.833333333333
+classication result 1: pos
+classication result 2: neg
